@@ -1,0 +1,23 @@
+{
+  "name": "djangobnb_backend",
+  "version": "1.0.0",
+  "description": "This repository is for the frontend part of my video tutorial series. You can find it here:\r [YOUTUBE PLAYLIST](https://www.youtube.com/playlist?list=PLpyspNLjzwBnP-906FBRP5qzB4YXjMvnT)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+  "dev": "node index.js"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteinOveHelset/djangobnb_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteinOveHelset/djangobnb_backend/issues"
+  },
+  "homepage": "https://github.com/SteinOveHelset/djangobnb_backend#readme"
+}
